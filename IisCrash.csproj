@@ -64,7 +64,7 @@
       <Version>5.2.6</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Http">
-      <Version>2.1.0-rc1-final</Version>
+      <Version>2.2.0-preview2-35157</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup>
